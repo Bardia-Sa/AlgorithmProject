@@ -1,5 +1,5 @@
 ``` mermaid
-graph LR
+  graph LR
     A((شروع)) --> B[تعریف متغیرها و پارامترها]
     B --> C[تعریف تابع f(t, y1, y2)]
     C --> D[مقداردهی اولیه]
@@ -24,4 +24,5 @@ graph LR
     style C fill:#ccf,stroke:#333,stroke-width:2px
     style D fill:#ffc,stroke:#333,stroke-width:2px
     style P fill:#aaf,stroke:#333,stroke-width:2px
+
 ```
